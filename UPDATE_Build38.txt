@@ -1,0 +1,37 @@
+LifeSaver by Hands to Hearts — Build38
+October16,2026 (Pacific)
+
+Four additional realistic teaching images, preserving all existing images:
+- CPR teamwork: next compressor ready while compressions continue.
+- AED analysis: correct adult pad placement and rescuers standing clear.
+- Continuous direct pressure while a second rescuer keeps the person warm.
+- Suspected forearm fracture supported with pillow and wrapped cold pack.
+
+New images match the existing semi-realistic human medical-textbook style,
+white background and navy/teal palette. Built-in image generation was used.
+Prompt set: realistic CPR compressor hand position/team readiness; adult
+AED pads with nobody touching during analysis; gloved uninterrupted
+forearm pressure plus blanket; supported injured forearm with wrapped ice
+pack and no straightening. Images visually reviewed for technique and
+anatomy against existing teaching and linked Red Cross guidance.
+Original PNG images encoded to WebP at quality100, original1536x1024
+resolution, without cropping or regenerating existing artwork.
+
+Remaining red icon.svg replaced with embedded existing HTH shield icon.
+PNG Home Screen icons and logo preserved. All Build37 coaching, camera,
+quiz/scenario/progress and AED functionality preserved byte-for-byte.
+
+Two verification passes: complete source and independently extracted ZIP.
+Actual-script simulated-DOM functional suite, timed coaching tests,
+image/signal tests, all96 questions/eight scenarios, syntax, offline assets,
+new image decoding/dimensions/HTML captions, original-content preservation,
+icon consistency, ZIP CRC and exact source equality.
+
+Limits: original AI-assisted teaching artwork, not official course artwork
+or clinical certification. No real iPhone/browser/model-inference tests.
+Existing experimental camera and coaching limits still apply. Compare
+tracking with a feedback manikin; do not delay CPR for app setup.
+
+One LifeSaver folder, all files directly inside. Extract and upload its
+contents to your HTTPS repository. Confirm Build38 footer. ZIP under25MiB.
+No public deployment performed by this update.

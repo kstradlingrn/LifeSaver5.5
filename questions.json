@@ -1,0 +1,1252 @@
+{
+  "BLS": [
+    {
+      "id": "BLS-001",
+      "topic": "Recognition",
+      "q": "An adult collapses, is unresponsive and gasps irregularly. What do you suspect?",
+      "options": [
+        "Cardiac arrest",
+        "Normal sleep",
+        "Effective breathing"
+      ],
+      "answer": 0,
+      "explanation": "An unresponsive adult with absent or abnormal breathing, including gasping, may be in cardiac arrest. Lay rescuers should not delay CPR for a pulse check.",
+      "source": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support"
+    },
+    {
+      "id": "BLS-002",
+      "topic": "Recognition",
+      "q": "Which finding should NOT reassure you that an unresponsive person is breathing adequately?",
+      "options": [
+        "Occasional gasping",
+        "Regular normal breaths",
+        "Talking in full sentences"
+      ],
+      "answer": 0,
+      "explanation": "An unresponsive adult with absent or abnormal breathing, including gasping, may be in cardiac arrest. Lay rescuers should not delay CPR for a pulse check.",
+      "source": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support"
+    },
+    {
+      "id": "BLS-003",
+      "topic": "Recognition",
+      "q": "A bystander cannot find a pulse. What should determine the lay-rescuer response?",
+      "options": [
+        "Responsiveness and normal breathing",
+        "A one-minute pulse search",
+        "The person’s age alone"
+      ],
+      "answer": 0,
+      "explanation": "An unresponsive adult with absent or abnormal breathing, including gasping, may be in cardiac arrest. Lay rescuers should not delay CPR for a pulse check.",
+      "source": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support"
+    },
+    {
+      "id": "BLS-004",
+      "topic": "Recognition",
+      "q": "An adult is unresponsive and not breathing. After activating help, what is needed?",
+      "options": [
+        "Prompt CPR",
+        "Wait for a diagnosis",
+        "Wait for skin to turn blue"
+      ],
+      "answer": 0,
+      "explanation": "An unresponsive adult with absent or abnormal breathing, including gasping, may be in cardiac arrest. Lay rescuers should not delay CPR for a pulse check.",
+      "source": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support"
+    },
+    {
+      "id": "BLS-005",
+      "topic": "Emergency activation",
+      "q": "You are alone with an adult in suspected cardiac arrest and have a phone. What should you do?",
+      "options": [
+        "Activate emergency help and begin CPR promptly",
+        "Drive to hospital first",
+        "Wait for another rescuer"
+      ],
+      "answer": 0,
+      "explanation": "Activate emergency help promptly. With a mobile phone, use speakerphone so CPR and dispatcher guidance can proceed.",
+      "source": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support"
+    },
+    {
+      "id": "BLS-006",
+      "topic": "Emergency activation",
+      "q": "A second person arrives. What task can you assign?",
+      "options": [
+        "Call emergency services and get an AED",
+        "Check the weather",
+        "Wait without helping"
+      ],
+      "answer": 0,
+      "explanation": "Activate emergency help promptly. With a mobile phone, use speakerphone so CPR and dispatcher guidance can proceed.",
+      "source": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support"
+    },
+    {
+      "id": "BLS-008",
+      "topic": "Emergency activation",
+      "q": "What should an app’s setup do during an arrest?",
+      "options": [
+        "Never delay CPR",
+        "Require a full account registration",
+        "Wait for camera calibration before guidance"
+      ],
+      "answer": 0,
+      "explanation": "Activate emergency help promptly. With a mobile phone, use speakerphone so CPR and dispatcher guidance can proceed.",
+      "source": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support"
+    },
+    {
+      "id": "BLS-009",
+      "topic": "Adult compression rate",
+      "q": "What is the recommended adult chest-compression rate?",
+      "options": [
+        "100–120 compressions/min",
+        "80/min",
+        "150/min"
+      ],
+      "answer": 0,
+      "explanation": "The adult target is 100–120 compressions per minute. Rate alone does not establish good depth or recoil.",
+      "source": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support"
+    },
+    {
+      "id": "BLS-010",
+      "topic": "Adult compression rate",
+      "q": "A compressor delivers 85/min. What rate correction is appropriate?",
+      "options": [
+        "Speed up to 100–120/min",
+        "Slow down",
+        "Keep 85/min"
+      ],
+      "answer": 0,
+      "explanation": "The adult target is 100–120 compressions per minute. Rate alone does not establish good depth or recoil.",
+      "source": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support"
+    },
+    {
+      "id": "BLS-011",
+      "topic": "Adult compression rate",
+      "q": "A compressor delivers 145/min. What rate correction is appropriate?",
+      "options": [
+        "Slow down to 100–120/min",
+        "Speed up",
+        "Maintain 145/min"
+      ],
+      "answer": 0,
+      "explanation": "The adult target is 100–120 compressions per minute. Rate alone does not establish good depth or recoil.",
+      "source": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support"
+    },
+    {
+      "id": "BLS-012",
+      "topic": "Adult compression rate",
+      "q": "The rate is 115/min. What else still matters?",
+      "options": [
+        "Depth and full recoil",
+        "Nothing else",
+        "Only loud encouragement"
+      ],
+      "answer": 0,
+      "explanation": "The adult target is 100–120 compressions per minute. Rate alone does not establish good depth or recoil.",
+      "source": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support"
+    },
+    {
+      "id": "BLS-013",
+      "topic": "Adult depth",
+      "q": "What is the minimum recommended adult compression depth?",
+      "options": [
+        "5 cm / 2 inches",
+        "1 cm / ¼ inch",
+        "10 cm / 4 inches"
+      ],
+      "answer": 0,
+      "explanation": "For an average adult, compress at least 5 cm (2 inches), avoiding more than 6 cm (2.4 inches).",
+      "source": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support"
+    },
+    {
+      "id": "BLS-015",
+      "topic": "Adult depth",
+      "q": "Adult compressions are 3 cm deep. What needs improvement?",
+      "options": [
+        "Greater depth toward the adult target",
+        "Less depth",
+        "Only a faster rate"
+      ],
+      "answer": 0,
+      "explanation": "For an average adult, compress at least 5 cm (2 inches), avoiding more than 6 cm (2.4 inches).",
+      "source": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support"
+    },
+    {
+      "id": "BLS-016",
+      "topic": "Adult depth",
+      "q": "Which depth instruction is most appropriate for an adult?",
+      "options": [
+        "At least 2 inches, avoiding more than 2.4 inches",
+        "As deep as physically possible",
+        "Always one-third of chest depth"
+      ],
+      "answer": 0,
+      "explanation": "For an average adult, compress at least 5 cm (2 inches), avoiding more than 6 cm (2.4 inches).",
+      "source": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support"
+    },
+    {
+      "id": "BLS-017",
+      "topic": "Hand placement",
+      "q": "Where should adult compression hands be placed?",
+      "options": [
+        "Lower half of the sternum",
+        "Upper abdomen",
+        "Left side over the heart"
+      ],
+      "answer": 0,
+      "explanation": "For adult CPR, use the heels of the hands on the lower half of the sternum, in the center of the chest.",
+      "source": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support"
+    },
+    {
+      "id": "BLS-018",
+      "topic": "Hand placement",
+      "q": "Which landmark is preferable to the nipple line for adult hand placement?",
+      "options": [
+        "Lower half of the breastbone",
+        "The belly button",
+        "The collarbone"
+      ],
+      "answer": 0,
+      "explanation": "For adult CPR, use the heels of the hands on the lower half of the sternum, in the center of the chest.",
+      "source": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support"
+    },
+    {
+      "id": "BLS-019",
+      "topic": "Hand placement",
+      "q": "Your hands are on the upper abdomen during CPR. What should you correct?",
+      "options": [
+        "Move to the lower half of the sternum",
+        "Press harder there",
+        "Move farther down"
+      ],
+      "answer": 0,
+      "explanation": "For adult CPR, use the heels of the hands on the lower half of the sternum, in the center of the chest.",
+      "source": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support"
+    },
+    {
+      "id": "BLS-020",
+      "topic": "Hand placement",
+      "q": "Which adult hand arrangement is usual?",
+      "options": [
+        "Two hands, one over the other",
+        "Fingertips on the ribs",
+        "One finger on the sternum"
+      ],
+      "answer": 0,
+      "explanation": "For adult CPR, use the heels of the hands on the lower half of the sternum, in the center of the chest.",
+      "source": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support"
+    },
+    {
+      "id": "BLS-021",
+      "topic": "Recoil",
+      "q": "What should happen between chest compressions?",
+      "options": [
+        "Complete chest recoil",
+        "Continuous downward pressure",
+        "A prolonged rest"
+      ],
+      "answer": 0,
+      "explanation": "Allow the chest to return fully between compressions. Avoid leaning while maintaining appropriate hand contact.",
+      "source": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support"
+    },
+    {
+      "id": "BLS-022",
+      "topic": "Recoil",
+      "q": "A rescuer leans on the chest between pushes. What feedback is appropriate?",
+      "options": [
+        "Release pressure for full recoil",
+        "Lean harder",
+        "Increase the metronome volume"
+      ],
+      "answer": 0,
+      "explanation": "Allow the chest to return fully between compressions. Avoid leaning while maintaining appropriate hand contact.",
+      "source": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support"
+    },
+    {
+      "id": "BLS-023",
+      "topic": "Recoil",
+      "q": "Why does releasing compression pressure matter?",
+      "options": [
+        "It supports refilling of the heart’s ventricles between compressions",
+        "It replaces rescue breaths",
+        "It delivers a shock"
+      ],
+      "answer": 0,
+      "explanation": "Allow the chest to return fully between compressions. Avoid leaning while maintaining appropriate hand contact.",
+      "source": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support"
+    },
+    {
+      "id": "BLS-025",
+      "topic": "Interruptions",
+      "q": "Which action improves compression continuity?",
+      "options": [
+        "Prepare equipment while another person compresses",
+        "Stop CPR to unpack everything",
+        "Stop to complete paperwork"
+      ],
+      "answer": 0,
+      "explanation": "Minimize interruptions. Necessary pauses should be brief; prolonged gaps reduce compression fraction.",
+      "source": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support"
+    },
+    {
+      "id": "BLS-026",
+      "topic": "Interruptions",
+      "q": "What is the usual upper limit goal for a necessary compression pause?",
+      "options": [
+        "Less than 10 seconds",
+        "At least 30 seconds",
+        "Two minutes"
+      ],
+      "answer": 0,
+      "explanation": "Minimize interruptions. Necessary pauses should be brief; prolonged gaps reduce compression fraction.",
+      "source": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support"
+    },
+    {
+      "id": "BLS-027",
+      "topic": "Interruptions",
+      "q": "A team pauses 25 seconds for a pulse assessment. What should improve?",
+      "options": [
+        "Shorter assessment and prompt resumption of CPR",
+        "Longer observation",
+        "Another 25-second pause"
+      ],
+      "answer": 0,
+      "explanation": "Minimize interruptions. Necessary pauses should be brief; prolonged gaps reduce compression fraction.",
+      "source": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support"
+    },
+    {
+      "id": "BLS-028",
+      "topic": "Interruptions",
+      "q": "Which event should NOT create an avoidable pause?",
+      "options": [
+        "Changing an app setting",
+        "AED analysis as instructed",
+        "Delivering indicated breaths"
+      ],
+      "answer": 0,
+      "explanation": "Minimize interruptions. Necessary pauses should be brief; prolonged gaps reduce compression fraction.",
+      "source": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support"
+    },
+    {
+      "id": "BLS-029",
+      "topic": "Rescuer rotation",
+      "q": "When should a team usually rotate compressors?",
+      "options": [
+        "About every 2 minutes",
+        "Only every 20 minutes",
+        "After every compression"
+      ],
+      "answer": 0,
+      "explanation": "Change compressors about every two minutes, or sooner if fatigued, with minimal interruption and another rescuer available.",
+      "source": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support"
+    },
+    {
+      "id": "BLS-030",
+      "topic": "Rescuer rotation",
+      "q": "A rescuer becomes fatigued after one minute and help is available. What is reasonable?",
+      "options": [
+        "Change sooner with minimal interruption",
+        "Force ten more minutes",
+        "Stop CPR entirely"
+      ],
+      "answer": 0,
+      "explanation": "Change compressors about every two minutes, or sooner if fatigued, with minimal interruption and another rescuer available.",
+      "source": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support"
+    },
+    {
+      "id": "BLS-031",
+      "topic": "Rescuer rotation",
+      "q": "You are the only compressor at the two-minute reminder. What should you do?",
+      "options": [
+        "Continue CPR",
+        "Stop for a mandatory rest",
+        "Wait for a replacement"
+      ],
+      "answer": 0,
+      "explanation": "Change compressors about every two minutes, or sooner if fatigued, with minimal interruption and another rescuer available.",
+      "source": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support"
+    },
+    {
+      "id": "BLS-032",
+      "topic": "Rescuer rotation",
+      "q": "How should the team arrange a compressor change?",
+      "options": [
+        "Prepare the replacement before the handoff",
+        "Take a long break first",
+        "Remove the AED pads"
+      ],
+      "answer": 0,
+      "explanation": "Change compressors about every two minutes, or sooner if fatigued, with minimal interruption and another rescuer available.",
+      "source": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support"
+    },
+    {
+      "id": "BLS-033",
+      "topic": "Hands-only adult CPR",
+      "q": "An untrained bystander witnesses sudden adult collapse and cannot give breaths. What should they provide?",
+      "options": [
+        "Chest compressions",
+        "No help until professionals arrive",
+        "Breaths only"
+      ],
+      "answer": 0,
+      "explanation": "Hands-only CPR is a practical response for lay bystanders to sudden adult collapse; trained rescuers may give breaths.",
+      "source": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support"
+    },
+    {
+      "id": "BLS-034",
+      "topic": "Hands-only adult CPR",
+      "q": "What are the core hands-only actions?",
+      "options": [
+        "Activate emergency help and perform chest compressions",
+        "Find a pulse for two minutes",
+        "Give medication first"
+      ],
+      "answer": 0,
+      "explanation": "Hands-only CPR is a practical response for lay bystanders to sudden adult collapse; trained rescuers may give breaths.",
+      "source": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support"
+    },
+    {
+      "id": "BLS-035",
+      "topic": "Hands-only adult CPR",
+      "q": "Which patient is the default emergency flow in LifeSaver designed for?",
+      "options": [
+        "An adult in suspected cardiac arrest",
+        "An infant with respiratory failure",
+        "Any conscious person with chest pain"
+      ],
+      "answer": 0,
+      "explanation": "Hands-only CPR is a practical response for lay bystanders to sudden adult collapse; trained rescuers may give breaths.",
+      "source": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support"
+    },
+    {
+      "id": "BLS-036",
+      "topic": "Hands-only adult CPR",
+      "q": "Does hands-only guidance eliminate the importance of AED use?",
+      "options": [
+        "No, obtain and use an AED promptly",
+        "Yes, AEDs are unnecessary",
+        "Only during training"
+      ],
+      "answer": 0,
+      "explanation": "Hands-only CPR is a practical response for lay bystanders to sudden adult collapse; trained rescuers may give breaths.",
+      "source": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support"
+    },
+    {
+      "id": "BLS-037",
+      "topic": "Adult 30:2 CPR",
+      "q": "What is the adult compression-to-breath ratio without an advanced airway? (For a provider giving breaths with a barrier device, rather than hands-only CPR.)",
+      "options": [
+        "30:2",
+        "15:2",
+        "5:1"
+      ],
+      "answer": 0,
+      "explanation": "For conventional adult CPR without an advanced airway, use 30 compressions followed by two breaths.",
+      "source": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support"
+    },
+    {
+      "id": "BLS-038",
+      "topic": "Adult 30:2 CPR",
+      "q": "After 30 adult compressions in conventional CPR, how many breaths follow? (For a provider giving breaths with a barrier device, rather than hands-only CPR.)",
+      "options": [
+        "2",
+        "6",
+        "10"
+      ],
+      "answer": 0,
+      "explanation": "For conventional adult CPR without an advanced airway, use 30 compressions followed by two breaths.",
+      "source": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support"
+    },
+    {
+      "id": "BLS-039",
+      "topic": "Adult 30:2 CPR",
+      "q": "Two trained rescuers provide adult CPR without an advanced airway. Which ratio applies? (For a provider giving breaths with a barrier device, rather than hands-only CPR.)",
+      "options": [
+        "30:2",
+        "15:2 automatically",
+        "Continuous breaths without compressions"
+      ],
+      "answer": 0,
+      "explanation": "For conventional adult CPR without an advanced airway, use 30 compressions followed by two breaths.",
+      "source": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support"
+    },
+    {
+      "id": "BLS-040",
+      "topic": "Adult 30:2 CPR",
+      "q": "What should happen after the two breaths?",
+      "options": [
+        "Resume compressions promptly",
+        "Take a one-minute break",
+        "Check blood pressure first"
+      ],
+      "answer": 0,
+      "explanation": "For conventional adult CPR without an advanced airway, use 30 compressions followed by two breaths.",
+      "source": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support"
+    },
+    {
+      "id": "BLS-041",
+      "topic": "Effective breaths",
+      "q": "How long should each conventional CPR breath take? (For a provider giving breaths with a barrier device, rather than hands-only CPR.)",
+      "options": [
+        "About 1 second",
+        "About 10 seconds",
+        "As fast and forceful as possible"
+      ],
+      "answer": 0,
+      "explanation": "Give each breath over about one second, with enough volume to produce visible chest rise; avoid excessive ventilation.",
+      "source": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support"
+    },
+    {
+      "id": "BLS-042",
+      "topic": "Effective breaths",
+      "q": "What observation helps judge delivered breath volume?",
+      "options": [
+        "Visible chest rise",
+        "An inflated stomach",
+        "A loud air sound alone"
+      ],
+      "answer": 0,
+      "explanation": "Give each breath over about one second, with enough volume to produce visible chest rise; avoid excessive ventilation.",
+      "source": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support"
+    },
+    {
+      "id": "BLS-043",
+      "topic": "Effective breaths",
+      "q": "The chest does not rise with a breath. What should you reassess?",
+      "options": [
+        "Airway opening and mask seal",
+        "Only compression counting",
+        "Whether to shock immediately"
+      ],
+      "answer": 0,
+      "explanation": "Give each breath over about one second, with enough volume to produce visible chest rise; avoid excessive ventilation.",
+      "source": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support"
+    },
+    {
+      "id": "BLS-044",
+      "topic": "Effective breaths",
+      "q": "Which ventilation approach should be avoided?",
+      "options": [
+        "Excessive rate or volume",
+        "A breath with visible chest rise",
+        "A well-sealed mask"
+      ],
+      "answer": 0,
+      "explanation": "Excessive ventilation increases pressure inside the chest, reducing venous return to the right ventricle and decreasing cardiac output. Give each breath over about 1 second with enough volume for visible chest rise.",
+      "source": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support"
+    },
+    {
+      "id": "BLS-045",
+      "topic": "Adult respiratory arrest",
+      "q": "An adult has a definite pulse but is not breathing. What is the priority?",
+      "options": [
+        "Provide breaths",
+        "Start shocks",
+        "Give compressions without assessment"
+      ],
+      "answer": 0,
+      "explanation": "An adult with a definite pulse but absent or inadequate breathing needs ventilatory support; the adult rate is one breath every six seconds.",
+      "source": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support"
+    },
+    {
+      "id": "BLS-046",
+      "topic": "Adult respiratory arrest",
+      "q": "What is the adult rescue-breathing interval with a pulse?",
+      "options": [
+        "1 breath every 6 seconds",
+        "1 breath every second",
+        "1 breath every 30 seconds"
+      ],
+      "answer": 0,
+      "explanation": "An adult with a definite pulse but absent or inadequate breathing needs ventilatory support; the adult rate is one breath every six seconds.",
+      "source": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support"
+    },
+    {
+      "id": "BLS-047",
+      "topic": "Adult respiratory arrest",
+      "q": "One breath every six seconds corresponds to what rate?",
+      "options": [
+        "10 breaths/min",
+        "30 breaths/min",
+        "2 breaths/min"
+      ],
+      "answer": 0,
+      "explanation": "An adult with a definite pulse but absent or inadequate breathing needs ventilatory support; the adult rate is one breath every six seconds.",
+      "source": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support"
+    },
+    {
+      "id": "BLS-048",
+      "topic": "Adult respiratory arrest",
+      "q": "During rescue breathing, the pulse disappears. What changes?",
+      "options": [
+        "Begin CPR",
+        "Continue breaths alone",
+        "Wait for the next two-minute reminder"
+      ],
+      "answer": 0,
+      "explanation": "An adult with a definite pulse but absent or inadequate breathing needs ventilatory support; the adult rate is one breath every six seconds.",
+      "source": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support"
+    },
+    {
+      "id": "BLS-049",
+      "topic": "Professional pulse checks",
+      "q": "How long may a professional take to identify a definite pulse initially?",
+      "options": [
+        "No more than 10 seconds",
+        "At least 60 seconds",
+        "Three minutes"
+      ],
+      "answer": 0,
+      "explanation": "Healthcare professionals assess breathing and pulse together, taking no more than ten seconds. Without a definite pulse, begin CPR.",
+      "source": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support"
+    },
+    {
+      "id": "BLS-050",
+      "topic": "Professional pulse checks",
+      "q": "Which assessments can a professional perform simultaneously?",
+      "options": [
+        "Check for breathing and a pulse",
+        "Blood pressure and a full medication history",
+        "Height and weight"
+      ],
+      "answer": 0,
+      "explanation": "Healthcare professionals assess breathing and pulse together, taking no more than ten seconds. Without a definite pulse, begin CPR.",
+      "source": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support"
+    },
+    {
+      "id": "BLS-051",
+      "topic": "Professional pulse checks",
+      "q": "No definite pulse is felt after ten seconds in an unresponsive adult. What should happen?",
+      "options": [
+        "Start CPR",
+        "Continue searching another minute",
+        "Give water"
+      ],
+      "answer": 0,
+      "explanation": "Healthcare professionals assess breathing and pulse together, taking no more than ten seconds. Without a definite pulse, begin CPR.",
+      "source": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support"
+    },
+    {
+      "id": "BLS-052",
+      "topic": "Professional pulse checks",
+      "q": "An adult receiving rescue breaths has a pulse. How often is the pulse generally reassessed?",
+      "options": [
+        "Every 2 minutes",
+        "Every breath",
+        "Only after 30 minutes"
+      ],
+      "answer": 0,
+      "explanation": "Healthcare professionals assess breathing and pulse together, taking no more than ten seconds. Without a definite pulse, begin CPR.",
+      "source": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support"
+    },
+    {
+      "id": "BLS-053",
+      "topic": "AED preparation",
+      "q": "When should an available AED be used in suspected adult arrest?",
+      "options": [
+        "As soon as possible",
+        "Only after 20 minutes of CPR",
+        "Only when an app confirms the rhythm"
+      ],
+      "answer": 0,
+      "explanation": "Apply an AED as soon as available while minimizing interruptions. Follow its directions and ensure appropriate pad contact.",
+      "source": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support"
+    },
+    {
+      "id": "BLS-054",
+      "topic": "AED preparation",
+      "q": "A helper brings an AED while you compress. What can the helper do?",
+      "options": [
+        "Prepare and attach pads with minimal interruption",
+        "Stop CPR to read every label aloud",
+        "Wait until EMS arrives"
+      ],
+      "answer": 0,
+      "explanation": "Apply an AED as soon as available while minimizing interruptions. Follow its directions and ensure appropriate pad contact.",
+      "source": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support"
+    },
+    {
+      "id": "BLS-055",
+      "topic": "AED preparation",
+      "q": "An AED pad will not adhere to a wet chest. What should you do?",
+      "options": [
+        "Dry the pad attachment areas quickly",
+        "Place pads over soaked clothing",
+        "Abandon defibrillation"
+      ],
+      "answer": 0,
+      "explanation": "Apply an AED as soon as available while minimizing interruptions. Follow its directions and ensure appropriate pad contact.",
+      "source": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support"
+    },
+    {
+      "id": "BLS-056",
+      "topic": "AED preparation",
+      "q": "The AED is ready to analyze. You cannot see a rhythm tracing. What should you do?",
+      "options": [
+        "Follow its instructions, including keeping everyone clear during analysis",
+        "An app’s encouragement to keep moving",
+        "A quiz prompt"
+      ],
+      "answer": 0,
+      "explanation": "Apply an AED as soon as available while minimizing interruptions. Follow its directions and ensure appropriate pad contact.",
+      "source": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support"
+    },
+    {
+      "id": "BLS-057",
+      "topic": "Shock safety",
+      "q": "The AED says shock advised. After ensuring everyone is clear, what next?",
+      "options": [
+        "Press the shock button if the device requires it",
+        "Keep waiting",
+        "Give water"
+      ],
+      "answer": 0,
+      "explanation": "No one should contact the patient during AED rhythm analysis or shock delivery. Deliver a shock when advised and resume CPR promptly.",
+      "source": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support"
+    },
+    {
+      "id": "BLS-058",
+      "topic": "Shock safety",
+      "q": "When must rescuers be clear of the patient?",
+      "options": [
+        "During analysis and shock delivery",
+        "Throughout all CPR",
+        "Only during breaths"
+      ],
+      "answer": 0,
+      "explanation": "No one should contact the patient during AED rhythm analysis or shock delivery. Deliver a shock when advised and resume CPR promptly.",
+      "source": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support"
+    },
+    {
+      "id": "BLS-059",
+      "topic": "Shock safety",
+      "q": "A helper is touching the patient before a shock. What should happen?",
+      "options": [
+        "Ensure the helper is clear before delivery",
+        "Shock anyway",
+        "Remove the batteries"
+      ],
+      "answer": 0,
+      "explanation": "No one should contact the patient during AED rhythm analysis or shock delivery. Deliver a shock when advised and resume CPR promptly.",
+      "source": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support"
+    },
+    {
+      "id": "BLS-060",
+      "topic": "Shock safety",
+      "q": "After an AED shock, what should happen immediately?",
+      "options": [
+        "Resume CPR",
+        "Check a pulse for one minute",
+        "Remove both pads"
+      ],
+      "answer": 0,
+      "explanation": "No one should contact the patient during AED rhythm analysis or shock delivery. Deliver a shock when advised and resume CPR promptly.",
+      "source": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support"
+    },
+    {
+      "id": "BLS-061",
+      "topic": "No-shock AED decision",
+      "q": "The AED says no shock advised in a pulseless patient. What next?",
+      "options": [
+        "Resume CPR",
+        "Assume recovery",
+        "Turn the AED off"
+      ],
+      "answer": 0,
+      "explanation": "A no-shock message does not prove circulation. Resume CPR when indicated and follow the AED’s subsequent prompts.",
+      "source": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support"
+    },
+    {
+      "id": "BLS-062",
+      "topic": "No-shock AED decision",
+      "q": "Does no shock advised mean the person has a pulse?",
+      "options": [
+        "No",
+        "Always",
+        "Only with new batteries"
+      ],
+      "answer": 0,
+      "explanation": "A no-shock message does not prove circulation. Resume CPR when indicated and follow the AED’s subsequent prompts.",
+      "source": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support"
+    },
+    {
+      "id": "BLS-063",
+      "topic": "No-shock AED decision",
+      "q": "How long is a typical CPR interval before the next AED-directed analysis?",
+      "options": [
+        "About 2 minutes",
+        "About 20 seconds",
+        "About 20 minutes"
+      ],
+      "answer": 0,
+      "explanation": "A no-shock message does not prove circulation. Resume CPR when indicated and follow the AED’s subsequent prompts.",
+      "source": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support"
+    },
+    {
+      "id": "BLS-064",
+      "topic": "No-shock AED decision",
+      "q": "The AED advises no shock and the adult is still unresponsive and not breathing normally. Which remains essential?",
+      "options": [
+        "High-quality CPR",
+        "Repeated unadvised shocks",
+        "Removing pads"
+      ],
+      "answer": 0,
+      "explanation": "A no-shock message does not prove circulation. Resume CPR when indicated and follow the AED’s subsequent prompts.",
+      "source": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support"
+    },
+    {
+      "id": "BLS-065",
+      "topic": "Firm surface and positioning",
+      "q": "Which surface is preferable for chest compressions?",
+      "options": [
+        "Firm and flat",
+        "A deeply yielding cushion",
+        "A moving hammock"
+      ],
+      "answer": 0,
+      "explanation": "A firm surface supports effective compressions. Do not create prolonged delays while arranging the environment.",
+      "source": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support"
+    },
+    {
+      "id": "BLS-066",
+      "topic": "Firm surface and positioning",
+      "q": "A camera needs adjustment while CPR is underway. What should the compressor do?",
+      "options": [
+        "Continue CPR; a helper can adjust it",
+        "Stop until the picture is perfect",
+        "Wait for the app to restart"
+      ],
+      "answer": 0,
+      "explanation": "A firm surface supports effective compressions. Do not create prolonged delays while arranging the environment.",
+      "source": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support"
+    },
+    {
+      "id": "BLS-067",
+      "topic": "Firm surface and positioning",
+      "q": "Which rescuer position helps direct force downward?",
+      "options": [
+        "Shoulders over the hands",
+        "Standing far from the patient",
+        "Bending only the wrists"
+      ],
+      "answer": 0,
+      "explanation": "Position your shoulders over your hands and keep your arms straight. Tip: use movement at your hips to move your upper body up and down and apply your body weight, rather than repeatedly bending and pushing with your arms, which can tire you quickly. Use a firm, flat surface without delaying CPR.",
+      "source": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support"
+    },
+    {
+      "id": "BLS-068",
+      "topic": "Firm surface and positioning",
+      "q": "What should placement of the phone avoid?",
+      "options": [
+        "Obstructing hands or delaying CPR",
+        "A stable nearby surface",
+        "A hands-free position"
+      ],
+      "answer": 0,
+      "explanation": "A firm surface supports effective compressions. Do not create prolonged delays while arranging the environment.",
+      "source": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support"
+    },
+    {
+      "id": "BLS-069",
+      "topic": "Infant choking",
+      "q": "A conscious infant cannot cry or cough effectively because of choking. What sequence is recommended?",
+      "options": [
+        "5 back slaps followed by 5 chest thrusts",
+        "5 back slaps followed by 5 abdominal thrusts",
+        "Immediately give 30 breaths"
+      ],
+      "answer": 0,
+      "explanation": "For a conscious infant with severe choking, alternate 5 back slaps (back blows) with 5 chest thrusts until the object is expelled or the infant becomes unresponsive. Use the heel of one hand for the chest thrusts. These are choking-relief thrusts, distinct from CPR chest compressions. If the infant becomes unresponsive, start CPR beginning with chest compressions.",
+      "source": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/pediatric-basic-life-support"
+    },
+    {
+      "id": "BLS-070",
+      "topic": "Adult choking",
+      "q": "A choking adult can cough strongly and speak. What should you do?",
+      "options": [
+        "Encourage coughing and observe",
+        "Begin chest compressions immediately",
+        "Do a blind finger sweep"
+      ],
+      "answer": 0,
+      "explanation": "In 2025 adult severe choking care, alternate five back blows with five abdominal thrusts; mild obstruction permits effective coughing.",
+      "source": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support"
+    },
+    {
+      "id": "BLS-071",
+      "topic": "Adult choking",
+      "q": "When should severe adult choking prompt emergency activation?",
+      "options": [
+        "Promptly",
+        "Only after 30 minutes",
+        "Only after recovery"
+      ],
+      "answer": 0,
+      "explanation": "In 2025 adult severe choking care, alternate five back blows with five abdominal thrusts; mild obstruction permits effective coughing.",
+      "source": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support"
+    },
+    {
+      "id": "BLS-072",
+      "topic": "Adult choking",
+      "q": "A choking adult becomes unresponsive. What action is needed?",
+      "options": [
+        "Begin CPR, starting with chest compressions, and activate help",
+        "Continue standing abdominal thrusts",
+        "Leave them alone"
+      ],
+      "answer": 0,
+      "explanation": "Once a choking adult becomes unresponsive, begin CPR with chest compressions and activate help. When opening the airway to give breaths, remove only a visible object; never perform a blind finger sweep.",
+      "source": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support"
+    },
+    {
+      "id": "BLS-073",
+      "topic": "Choking modifications",
+      "q": "A conscious pregnant adult has severe choking. What replaces abdominal thrusts?",
+      "options": [
+        "Chest thrusts",
+        "Finger sweeps",
+        "Rescue breaths alone"
+      ],
+      "answer": 0,
+      "explanation": "Use chest thrusts when abdominal thrusts are not appropriate, such as late pregnancy or when the abdomen cannot be encircled. Remove only visible objects.",
+      "source": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support"
+    },
+    {
+      "id": "BLS-074",
+      "topic": "Choking modifications",
+      "q": "You cannot encircle a severely choking adult’s abdomen. Which modification is appropriate?",
+      "options": [
+        "Chest thrusts",
+        "A headstand",
+        "Wait without intervention"
+      ],
+      "answer": 0,
+      "explanation": "Use chest thrusts when abdominal thrusts are not appropriate, such as late pregnancy or when the abdomen cannot be encircled. Remove only visible objects.",
+      "source": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support"
+    },
+    {
+      "id": "BLS-075",
+      "topic": "Choking modifications",
+      "q": "You open an unresponsive choking patient’s mouth and see an object. What should you do?",
+      "options": [
+        "Remove the visible object",
+        "Push it deeper",
+        "Ignore all visible objects"
+      ],
+      "answer": 0,
+      "explanation": "Use chest thrusts when abdominal thrusts are not appropriate, such as late pregnancy or when the abdomen cannot be encircled. Remove only visible objects.",
+      "source": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support"
+    },
+    {
+      "id": "BLS-076",
+      "topic": "Choking modifications",
+      "q": "No object is visible in the mouth. What should you avoid?",
+      "options": [
+        "Blind finger sweeps",
+        "Continuing indicated CPR",
+        "Calling for help"
+      ],
+      "answer": 0,
+      "explanation": "Use chest thrusts when abdominal thrusts are not appropriate, such as late pregnancy or when the abdomen cannot be encircled. Remove only visible objects.",
+      "source": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support"
+    },
+    {
+      "id": "BLS-077",
+      "topic": "Opioid-related emergencies",
+      "q": "Suspected opioid overdose, no normal breathing and no definite pulse: what is essential?",
+      "options": [
+        "CPR and emergency activation",
+        "Naloxone instead of CPR",
+        "Wait for toxicology results"
+      ],
+      "answer": 0,
+      "explanation": "Support breathing and circulation and activate help. Naloxone may be used when available but should not delay CPR or defibrillation.",
+      "source": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support"
+    },
+    {
+      "id": "BLS-078",
+      "topic": "Opioid-related emergencies",
+      "q": "Naloxone is available during suspected opioid-associated arrest. What must its use avoid?",
+      "options": [
+        "Delaying CPR or AED use",
+        "Calling for help",
+        "Supporting breathing"
+      ],
+      "answer": 0,
+      "explanation": "Support breathing and circulation and activate help. Naloxone may be used when available but should not delay CPR or defibrillation.",
+      "source": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support"
+    },
+    {
+      "id": "BLS-079",
+      "topic": "Opioid-related emergencies",
+      "q": "Suspected overdose with a definite pulse but inadequate breathing: what is crucial?",
+      "options": [
+        "Ventilatory support",
+        "Defibrillation of a normal rhythm",
+        "Compressions regardless of pulse"
+      ],
+      "answer": 0,
+      "explanation": "Support breathing and circulation and activate help. Naloxone may be used when available but should not delay CPR or defibrillation.",
+      "source": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support"
+    },
+    {
+      "id": "BLS-080",
+      "topic": "Opioid-related emergencies",
+      "q": "Does giving naloxone replace ongoing reassessment?",
+      "options": [
+        "No",
+        "Yes, for twenty minutes",
+        "Only in adults"
+      ],
+      "answer": 0,
+      "explanation": "Support breathing and circulation and activate help. Naloxone may be used when available but should not delay CPR or defibrillation.",
+      "source": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support"
+    },
+    {
+      "id": "BLS-081",
+      "topic": "Infant and child depth",
+      "q": "What fraction of the depth of the patient’s chest is the pediatric compression target?",
+      "options": [
+        "At least one-third",
+        "One-tenth",
+        "The entire chest diameter"
+      ],
+      "answer": 0,
+      "explanation": "Pediatric depth is at least one-third of the front-to-back chest diameter: approximately 4 cm for infants and 5 cm for children.",
+      "source": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/pediatric-basic-life-support"
+    },
+    {
+      "id": "BLS-082",
+      "topic": "Infant and child depth",
+      "q": "What is the approximate infant compression depth?",
+      "options": [
+        "4 cm / 1½ inches",
+        "1 cm",
+        "8 cm"
+      ],
+      "answer": 0,
+      "explanation": "Pediatric depth is at least one-third of the front-to-back chest diameter: approximately 4 cm for infants and 5 cm for children.",
+      "source": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/pediatric-basic-life-support"
+    },
+    {
+      "id": "BLS-083",
+      "topic": "Infant and child depth",
+      "q": "What is the approximate child compression depth?",
+      "options": [
+        "About 5 cm / 2 inches (at least one-third the depth of the chest)",
+        "½ inch",
+        "4 inches"
+      ],
+      "answer": 0,
+      "explanation": "Pediatric depth is at least one-third of the front-to-back chest diameter: approximately 4 cm for infants and 5 cm for children.",
+      "source": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/pediatric-basic-life-support"
+    },
+    {
+      "id": "BLS-085",
+      "topic": "Pediatric rate and ratios",
+      "q": "What is the infant/child compression rate?",
+      "options": [
+        "100–120/min",
+        "60–80/min",
+        "160–180/min"
+      ],
+      "answer": 0,
+      "explanation": "Pediatric rate is 100–120/min. Without an advanced airway, use 30:2 for one rescuer and 15:2 for two rescuers.",
+      "source": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/pediatric-basic-life-support"
+    },
+    {
+      "id": "BLS-086",
+      "topic": "Pediatric rate and ratios",
+      "q": "One rescuer gives child CPR without an advanced airway. Which ratio?",
+      "options": [
+        "30:2",
+        "15:2",
+        "3:1"
+      ],
+      "answer": 0,
+      "explanation": "Pediatric rate is 100–120/min. Without an advanced airway, use 30:2 for one rescuer and 15:2 for two rescuers.",
+      "source": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/pediatric-basic-life-support"
+    },
+    {
+      "id": "BLS-087",
+      "topic": "Pediatric rate and ratios",
+      "q": "Two rescuers give infant CPR without an advanced airway. Which ratio?",
+      "options": [
+        "15:2",
+        "30:5",
+        "5:1"
+      ],
+      "answer": 0,
+      "explanation": "Pediatric rate is 100–120/min. Without an advanced airway, use 30:2 for one rescuer and 15:2 for two rescuers.",
+      "source": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/pediatric-basic-life-support"
+    },
+    {
+      "id": "BLS-088",
+      "topic": "Pediatric rate and ratios",
+      "q": "Why are breaths particularly important in pediatric arrest?",
+      "options": [
+        "Respiratory causes are the most common cause of pediatric cardiac arrest",
+        "Children never need compressions",
+        "AEDs cannot be used"
+      ],
+      "answer": 0,
+      "explanation": "Pediatric rate is 100–120/min. Without an advanced airway, use 30:2 for one rescuer and 15:2 for two rescuers.",
+      "source": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/pediatric-basic-life-support"
+    },
+    {
+      "id": "BLS-089",
+      "topic": "Infant technique",
+      "q": "Which is an accepted 2025 infant compression technique?",
+      "options": [
+        "Two-thumb encircling hands",
+        "One fingertip on the abdomen",
+        "Compression over the left ribs"
+      ],
+      "answer": 0,
+      "explanation": "The 2025 guidance supports the heel-of-one-hand or two-thumb encircling technique for infant compressions; pediatric technique varies with size.",
+      "source": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/pediatric-basic-life-support"
+    },
+    {
+      "id": "BLS-090",
+      "topic": "Infant technique",
+      "q": "If the infant’s chest cannot be encircled, which compression method is recommended?",
+      "options": [
+        "Heel of one hand on the sternum",
+        "Push with a toe",
+        "Avoid compressions"
+      ],
+      "answer": 0,
+      "explanation": "The 2025 guidance supports the heel-of-one-hand or two-thumb encircling technique for infant compressions; pediatric technique varies with size.",
+      "source": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/pediatric-basic-life-support"
+    },
+    {
+      "id": "BLS-091",
+      "topic": "Infant technique",
+      "q": "Where are infant compressions delivered?",
+      "options": [
+        "In the center of the chest, on the sternum just below the nipple line",
+        "On the abdomen",
+        "On the neck"
+      ],
+      "answer": 0,
+      "explanation": "Deliver infant compressions in the center of the chest, on the sternum just below the nipple line. The 2025 guidance recommends the heel-of-one-hand or two-thumb encircling technique.",
+      "source": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/pediatric-basic-life-support"
+    },
+    {
+      "id": "BLS-092",
+      "topic": "Infant technique",
+      "q": "Which release principle applies during infant CPR?",
+      "options": [
+        "Allow full recoil",
+        "Maintain pressure constantly",
+        "Release only every two minutes"
+      ],
+      "answer": 0,
+      "explanation": "The 2025 guidance supports the heel-of-one-hand or two-thumb encircling technique for infant compressions; pediatric technique varies with size.",
+      "source": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/pediatric-basic-life-support"
+    },
+    {
+      "id": "BLS-093",
+      "topic": "Pediatric AED",
+      "q": "For a child younger than eight, which AED option is preferred when available?",
+      "options": [
+        "Pediatric attenuation/pads; if unavailable, adult AED pads may be used",
+        "No AED use",
+        "Adult pads over clothing"
+      ],
+      "answer": 0,
+      "explanation": "Prefer an AED with pediatric attenuation/pads for a child under 8 years. If unavailable, use the available adult AED rather than delaying defibrillation. Follow its instructions and ensure pads do not touch.",
+      "source": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/pediatric-basic-life-support"
+    },
+    {
+      "id": "BLS-094",
+      "topic": "Pediatric AED",
+      "q": "Only an adult AED is available for a child in arrest. What is reasonable?",
+      "options": [
+        "Use it rather than withhold available defibrillation",
+        "Wait indefinitely for pediatric pads",
+        "Never attach it"
+      ],
+      "answer": 0,
+      "explanation": "Use pediatric attenuation for children younger than eight when available. If suitable pediatric equipment is unavailable, an adult AED can be considered.",
+      "source": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/pediatric-basic-life-support"
+    },
+    {
+      "id": "BLS-095",
+      "topic": "Pediatric AED",
+      "q": "What must be prevented when attaching pads to a small chest?",
+      "options": [
+        "Pads touching each other",
+        "A clear analysis interval",
+        "Following device instructions"
+      ],
+      "answer": 0,
+      "explanation": "Use pediatric attenuation for children younger than eight when available. If suitable pediatric equipment is unavailable, an adult AED can be considered.",
+      "source": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/pediatric-basic-life-support"
+    },
+    {
+      "id": "BLS-096",
+      "topic": "Pediatric AED",
+      "q": "Which placement may help keep pads separated on a small patient?",
+      "options": [
+        "Front-and-back placement on the torso/trunk",
+        "Stack both pads together",
+        "Place both on one arm"
+      ],
+      "answer": 0,
+      "explanation": "Use pediatric attenuation for children younger than eight when available. If suitable pediatric equipment is unavailable, an adult AED can be considered.",
+      "source": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/pediatric-basic-life-support"
+    },
+    {
+      "id": "BLS-097",
+      "topic": "Teamwork and measurement",
+      "q": "The leader asks someone to get the AED. What response supports teamwork?",
+      "options": [
+        "Repeat the task and confirm completion",
+        "Walk away silently",
+        "Wait for everyone to volunteer"
+      ],
+      "answer": 0,
+      "explanation": "Use clear task assignment and closed-loop communication. A camera rate estimate cannot measure depth, recoil or prove an effective compression.",
+      "source": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support"
+    },
+    {
+      "id": "BLS-098",
+      "topic": "Teamwork and measurement",
+      "q": "A camera reports 110/min. What can it NOT establish by rate alone?",
+      "options": [
+        "Adequate depth and recoil",
+        "Estimated movement frequency",
+        "Whether the pace is in range"
+      ],
+      "answer": 0,
+      "explanation": "Use clear task assignment and closed-loop communication. A camera rate estimate cannot measure depth, recoil or prove an effective compression.",
+      "source": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support"
+    },
+    {
+      "id": "BLS-099",
+      "topic": "Teamwork and measurement",
+      "q": "Camera tracking is lost. What should happen to CPR?",
+      "options": [
+        "Continue CPR and guidance",
+        "Pause until tracking returns",
+        "Assume compressions stopped"
+      ],
+      "answer": 0,
+      "explanation": "Use clear task assignment and closed-loop communication. A camera rate estimate cannot measure depth, recoil or prove an effective compression.",
+      "source": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support"
+    },
+    {
+      "id": "BLS-100",
+      "topic": "Teamwork and measurement",
+      "q": "What is compression fraction intended to describe?",
+      "options": [
+        "Proportion of resuscitation time doing compressions",
+        "Percent of correct quiz answers",
+        "Depth in centimeters"
+      ],
+      "answer": 0,
+      "explanation": "Use clear task assignment and closed-loop communication. A camera rate estimate cannot measure depth, recoil or prove an effective compression.",
+      "source": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support"
+    }
+  ]
+}

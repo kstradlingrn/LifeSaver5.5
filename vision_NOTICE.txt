@@ -1,0 +1,9 @@
+LifeSaver build 24 bundled on-device tracking dependencies
+
+MediaPipe Tasks Vision 0.10.21, Google LLC, Apache License 2.0 (see vision_LICENSE.txt).
+Distribution: https://cdn.jsdelivr.net/npm/@mediapipe/tasks-vision@0.10.21/
+Pose landmarker lite float16 version 1 and hand landmarker float16 version 1:
+https://storage.googleapis.com/mediapipe-models/pose_landmarker/pose_landmarker_lite/float16/1/pose_landmarker_lite.task
+https://storage.googleapis.com/mediapipe-models/hand_landmarker/hand_landmarker/float16/1/hand_landmarker.task
+
+All inference assets are bundled and loaded from the app origin. Camera frames are not recorded or uploaded by LifeSaver. This experimental rate estimator requires testing against an instrumented training manikin. It does not measure compression depth, recoil, hand-placement correctness, or clinical CPR effectiveness.

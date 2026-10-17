@@ -1,0 +1,98 @@
+[
+  {
+    "id": "bls-01",
+    "category": "BLS",
+    "title": "Sudden collapse at home",
+    "story": "Adult found unresponsive, with gasping. You are a lay rescuer.",
+    "kind": "recognition",
+    "rhythm": null,
+    "hr": null,
+    "bp": null,
+    "spo2": null,
+    "rescuer": "lay"
+  },
+  {
+    "id": "bls-02",
+    "category": "BLS",
+    "title": "Collapse at the gym",
+    "story": "An adult collapses at the gym. Another bystander is nearby.",
+    "kind": "helper",
+    "rhythm": null,
+    "hr": null,
+    "bp": null,
+    "spo2": null,
+    "rescuer": "lay"
+  },
+  {
+    "id": "bls-03",
+    "category": "BLS",
+    "title": "AED arrives",
+    "story": "Adult has no normal breathing; a helper brings an AED.",
+    "kind": "aed",
+    "rhythm": null,
+    "hr": null,
+    "bp": null,
+    "spo2": null,
+    "rescuer": "lay"
+  },
+  {
+    "id": "bls-04",
+    "category": "BLS",
+    "title": "No shock advised",
+    "story": "Adult remains unresponsive; the AED reports no shock advised.",
+    "kind": "noshock",
+    "rhythm": null,
+    "hr": null,
+    "bp": null,
+    "spo2": null,
+    "rescuer": "lay"
+  },
+  {
+    "id": "bls-05",
+    "category": "BLS",
+    "title": "Fatigued compressor",
+    "story": "Two rescuers are providing compressions; the first is tiring.",
+    "kind": "rotate",
+    "rhythm": null,
+    "hr": null,
+    "bp": null,
+    "spo2": null,
+    "rescuer": "lay"
+  },
+  {
+    "id": "bls-06",
+    "category": "BLS",
+    "title": "Respiratory arrest",
+    "story": "You are a healthcare provider. An adult is unresponsive, with no breathing but a definite pulse.",
+    "kind": "resp",
+    "rhythm": null,
+    "hr": 88,
+    "bp": "104/66",
+    "spo2": 96,
+    "rescuer": "provider"
+  },
+  {
+    "id": "bls-07",
+    "category": "BLS",
+    "title": "Opioid-associated collapse",
+    "story": "You are a healthcare provider. An adult is unresponsive and not breathing normally. Assess breathing/signs of life and pulse together within 10 seconds. Naloxone is available.",
+    "kind": "opioid",
+    "rhythm": null,
+    "hr": null,
+    "bp": null,
+    "spo2": null,
+    "rescuer": "provider"
+  },
+  {
+    "id": "bls-10",
+    "category": "BLS",
+    "title": "Adult choking",
+    "story": "An adult choked on food and is now unresponsive and not breathing normally. You are a lay rescuer. Begin the hands-only CPR/AED pathway.",
+    "kind": "choking",
+    "rhythm": null,
+    "hr": null,
+    "bp": null,
+    "spo2": null,
+    "rescuer": "lay"
+  }
+]
